@@ -12,7 +12,7 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;  // Replace "YourAuthToken" with your Blynk authentication token
 char ssid[] = "SLT_FIBER";   // Replace "YourWiFiSSID" with your WiFi SSID
-char pass[] = "Chootiya1234";  // Replace "YourWiFiPassword" with your WiFi password
+char pass[] = "PASSWORD";  // Replace "YourWiFiPassword" with your WiFi password
 
 #define RAIN_SENSOR_PIN 12
 #define EN_PIN   19 // Enable 
